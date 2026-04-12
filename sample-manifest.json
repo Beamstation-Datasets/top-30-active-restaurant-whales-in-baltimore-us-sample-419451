@@ -1,0 +1,12 @@
+{
+  "export_job_id": "aa3b1580-8734-43f3-abc4-bb8b9190d918",
+  "id_short": 419451,
+  "published_at": "2026-04-12T07:45:42Z",
+  "repo_name": "top-30-active-restaurant-whales-in-baltimore-us-sample-419451",
+  "sample_asset_name": "beamstation_419451_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/419451/beamstation_419451_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_records": 105,
+  "sample_sha256": "ffb146f771053f3b73d1a679b584745cdbf1da687f34e125b97445916142b374",
+  "sample_size_bytes": 452505,
+  "total_records": 1054
+}
